@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advice on Julie Lee</title>
+    <link>http://www.synapticlee.co.uk/advice/</link>
+    <description>Recent content in Advice on Julie Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 25 Nov 2017 01:29:58 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.synapticlee.co.uk/advice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
