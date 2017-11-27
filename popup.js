@@ -1,1 +1,3 @@
-window.alert("sometext"); 
+function popup() {
+	window.alert("sometext"); 
+}
