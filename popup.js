@@ -1,3 +1,4 @@
 function popup() {
-	window.alert("sometext"); 
+	console.log("hello world"); 
+	//window.alert("sometext"); 
 }
