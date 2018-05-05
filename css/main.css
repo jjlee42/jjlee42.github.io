@@ -178,7 +178,7 @@ section.header .avatar {
   max-width: 80px;
 }
 section.header .name {
-  font-size: 18px;
+  font-size: 16px;
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
@@ -197,7 +197,7 @@ section.header h3.self-intro {
   margin-bottom: 1rem;
 }
 section.header nav {
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 16px;
   text-transform: uppercase;
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
@@ -284,8 +284,8 @@ section.icons .content {
 }
 section.icons .content a {
   margin-left: 6px;
-  margin-right: 6px;
-  opacity: 0.6;
+  margin-right: 10px;
+  opacity: 0.5;
   -webkit-transition: opacity 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
   -moz-transition: opacity 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
   -ms-transition: opacity 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
@@ -350,7 +350,7 @@ section.main .content .title-container {
 }
 section.main .content .title-container .initials {
   display: none;
-  font-size: 18px;
+  font-size: 16px;
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
@@ -370,7 +370,7 @@ section.main .content .title-container .initials a:hover {
   color: #333;
 }
 section.main .content .page-heading {
-  font-size: 18px;
+  font-size: 16px;
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
@@ -492,7 +492,7 @@ section.main .container .content .no-bullet {
   margin-bottom: 1rem;
 }
 section.main .container .content .no-bullet .date {
-  font-size: 18px;
+  font-size: 16px;
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
@@ -524,7 +524,7 @@ section.main {
     padding-bottom: 60px;
   }
   section.icons {
-    padding-top: 60px;
+    padding-top: 30px;
     padding-bottom: 60px;
   }
   section.main {
@@ -575,7 +575,7 @@ section.main .content .markdown h3,
 section.main .content .markdown h4,
 section.main .content .markdown h5,
 section.main .content .markdown h6 {
-  font-size: 18px;
+  font-size: 16px;
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
