@@ -296,7 +296,7 @@ section.icons .content a:first-child {
   margin-left: 0;
 }
 section.icons .content a:last-child {
-  margin-right: 0;
+  margin-right: 10px;
 }
 section.icons .content a:hover {
   opacity: 0.8;
