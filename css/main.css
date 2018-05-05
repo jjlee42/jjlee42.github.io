@@ -302,8 +302,8 @@ section.icons .content a:hover {
   opacity: 0.8;
 }
 section.icons .content a .icon {
-  width: 16px;
-  height: 16px;
+  width:  30px;
+  height: 30px;
 }
 section.icons .content a .flag {
   border-radius: 50%;
