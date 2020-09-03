@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Julie Lee</title>
+    <link>http://www.synapticlee.co.uk/blog/</link>
+    <description>Recent content in Blogs on Julie Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.synapticlee.co.uk/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>References on the Philosophy of Simulation and Modelling</title>
+      <link>http://www.synapticlee.co.uk/blog/2018-08-05_references_on_simulation/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.synapticlee.co.uk/blog/2018-08-05_references_on_simulation/</guid>
+      <description>A while back I asked for references on the philosophy of computational modelling from my friend Sophie Osiecki (soon to be PhD student in Philosophy at McGill University). For interest to the computational modelling community, I’ve listed them here. (Disclaimer, I haven’t yet read these papers.) Where PDFs exist freely, I’ve linked them, otherwise, look for them through your university library search engines.
+ When can a Computer Simulation act as Substitute for an Experiment?</description>
+    </item>
+    
+    <item>
+      <title>Highlights from Cosyne 2017</title>
+      <link>http://www.synapticlee.co.uk/blog/2017-03-05-highlights-from-cosyne-2017/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.synapticlee.co.uk/blog/2017-03-05-highlights-from-cosyne-2017/</guid>
+      <description>Apparently people actually read this blog so I thought I’d give a quick summary of my time at Cosyne. I enjoyed the conference a lot and definitely felt like I got much more out of it than at SfN, although this was possibly because the schedule was much more packed than at SfN. The workshops, ad-hoc discussions, talks and posters were all fantastic, and I totally recommend Cosyne for anyone in the computational/systems neuroscience field.</description>
+    </item>
+    
+    <item>
+      <title>Wellcome Trust First Year PhD Students&#39; Meeting</title>
+      <link>http://www.synapticlee.co.uk/blog/2016-07-25-wt-phd-meeting/</link>
+      <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.synapticlee.co.uk/blog/2016-07-25-wt-phd-meeting/</guid>
+      <description>On Friday, the 22nd of July (exactly one year since I graduated from the University of Bristol!) I attended a first-year PhD students meeting at the Wellcome Trust. This meeting was for all 140 students funded on the Trust’s four-year phd programmes to gather together for advice, information and networking. The objective of the meeting was to highlight opportunities for us to think about, such as the Sir Henry Wellcome postdoctoral fellowships, public engagement opportunities and policy internships - and also provide a space for all the phd students to meet.</description>
+    </item>
+    
+    <item>
+      <title>The Not-So-Empty Brain, or Lessons Against Confusing the IP Metaphor</title>
+      <link>http://www.synapticlee.co.uk/blog/2016-05-21-the-not-so-empty-brain/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.synapticlee.co.uk/blog/2016-05-21-the-not-so-empty-brain/</guid>
+      <description>There is a theory in philosophy called “computational theory of mind” (CTM) which argues that the brain is literally a computer, or more specifically, a “computing system”. Separately, the brain has been commonly likened to a computer or information processor. Psychologist Robert Epstein has attacked this metaphor in a recent essay called “The Empty Brain”. However, the theory in which Epstein takes issue with is at times the information processing (IP) metaphor (which he names in the article), at times the CTM, and at yet other times, some strange straw-chimera.</description>
+    </item>
+    
+    <item>
+      <title>Attending the OxFEST 2016 conference for women in STEM</title>
+      <link>http://www.synapticlee.co.uk/blog/2016-02-06-oxfest/</link>
+      <pubDate>Sat, 06 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.synapticlee.co.uk/blog/2016-02-06-oxfest/</guid>
+      <description>Yesterday I attended the 5th annual conference of OxFEST, the University of Oxford’s society for ‘Females in Engineering, Science and Technology). The conference consisted of female speakers in top positions in academia and industry, interspersed with networking opportunities, a workshop, and research presentations. The speakers focused on their experiences of climbing the career ladder as a woman and advice for the conference attendees, who were mostly academic women from undergraduate to postdoctoral levels.</description>
+    </item>
+    
+    <item>
+      <title>Tips for postgraduate applications</title>
+      <link>http://www.synapticlee.co.uk/blog/2015-02-08-postgraduate-applications/</link>
+      <pubDate>Sun, 08 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.synapticlee.co.uk/blog/2015-02-08-postgraduate-applications/</guid>
+      <description>It’s been some time since the end of my postgraduate application cycle (2015), so I thought I’d write a reflection on my experiences in the hopes that it might help future applicants. I was happy to receive a really great offer, which I accepted, so I hope that this will be some evidence of tips that work. For more specific details I am happy to share in a private capacity, so send me a mention on Twitter (@synapticlee) and we can discuss it further.</description>
+    </item>
+    
+  </channel>
+</rss>
