@@ -1,0 +1,45 @@
+baseURL = "http://www.synapticlee.co.uk/"
+languageCode = "en-uk"
+title = "Julie Lee"
+theme = "cocoa"
+builddrafts  = false
+
+[[menu.main]]
+name                   = "About"
+weight                 = -120
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -110
+identifier             = "blog"
+url                    = "/blog/"
+
+[[menu.main]]
+name                   = "Publications"
+weight                 = -100
+identifier             = "publications"
+url                    = "/publications/"
+
+[[menu.main]]
+name                   = "CV"
+weight                 = -90
+identifier             = "CV"
+url                    = "/cv/"
+
+[[menu.main]]
+name                   = "Advice"
+weight                 = -80
+identifier             = "advice"
+url                    = "/advice/"
+
+[params]
+latestpostscount       = 3
+noshowreadtime         = true
+selfintro              = "julie lee - neuroscience phd student"
+faviconfile            = "img/favicon.ico"
+github                 = "//github.com/jjlee42"
+twitter                = "//twitter.com/synapticlee"
+
+avatar                 = "img/profile.png"

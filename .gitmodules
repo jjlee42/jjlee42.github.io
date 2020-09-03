@@ -1,0 +1,8 @@
+[submodule "synapticleeblog/jjlee42.github.io"]
+	path = synapticleeblog/jjlee42.github.io
+	url = https://github.com/jjlee42/jjlee42.github.io
+	branch = master
+[submodule "synapticleeblog/public"]
+	path = synapticleeblog/public
+	url = https://github.com/jjlee42/jjlee42/github.io.git
+	branch = master
